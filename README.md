@@ -102,12 +102,12 @@ Strong success criteria let the LLM loop independently. Weak criteria ("make it 
 
 From within Claude Code, first add the marketplace:
 ```
-/plugin marketplace add forrestchang/andrej-karpathy-skills
+/plugin marketplace add BDelperier/claude-skills
 ```
 
 Then install the plugin:
 ```
-/plugin install andrej-karpathy-skills@karpathy-skills
+/plugin install claude-skills@karpathy-skills
 ```
 
 This installs the guidelines as a Claude Code plugin, making the skill available across all your projects.
