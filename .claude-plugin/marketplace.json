@@ -1,6 +1,6 @@
 {
-  "name": "karpathy-skills",
-  "id": "karpathy-skills",
+  "name": "claude-skills",
+  "id": "claude-skills",
   "owner": {
     "name": "forrestchang"
   },
@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "andrej-karpathy-skills",
+      "name": "claude-skills",
       "source": "./",
       "description": "Behavioral guidelines to reduce common LLM coding mistakes: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution",
       "version": "1.0.0",
